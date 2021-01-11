@@ -5,13 +5,13 @@ body {
 h1,
 h2 {
   font-family: 'Courier Prime', monospace;
-  color: #9fa9a3;
+  color:#9fa9a3;
 }
 p {
-  color: #9fa9a3;
+  color:#9fa9a3;
 }
 header {
   background-color:#c5d5c5;
-  color: #9fa9a3;
-  padding: 18px;
+  color:#9fa9a3;
+  padding:18px;
 }
