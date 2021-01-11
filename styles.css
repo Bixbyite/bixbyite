@@ -1,17 +1,17 @@
 body {
   font-family: 'Courier Prime', monospace;
-  background-color:#999966;
+  background-color:#f0f0f0;
 }
 h1,
 h2 {
   font-family: 'Courier Prime', monospace;
-  color: white;
+  color: #9fa9a3;
 }
 p {
-  color: white;
+  color: #9fa9a3;
 }
 header {
-  background-color:#996241;
-  color: white;
-  padding: 20px;
+  background-color:#c5d5c5;
+  color: #9fa9a3;
+  padding: 18px;
 }
