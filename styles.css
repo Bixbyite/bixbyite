@@ -2,6 +2,13 @@ body {
   font-family: 'Courier Prime', monospace;
   background-color:#f0f0f0;
 }
+flex-parent {
+  display: flex; 
+  flex-wrap: wrap;
+  gap: 1 rem;
+  
+flex-children {
+  width: 
 h1,
 h2 {
   font-family: 'Big Shoulders Stencil Text', cursive;
