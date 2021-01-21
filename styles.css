@@ -16,7 +16,7 @@ h2 {
 }
 @font-face {
   font-family: 'Slaytanic Font';
-  src: url(https://www.1001fonts.com/slaytanic-font.html?text=The+Poubelle+Project);
+  src: url('https://www.1001fonts.com/slaytanic-font.html?text=The+Poubelle+Project') format('woff2');
 }
 p {
   color:#9fa9a3;
