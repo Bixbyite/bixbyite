@@ -1,5 +1,5 @@
 body {
-  font-family:'Slaytanic Font';
+  font-family:'Slaytanic Regular';
   background-color:#f0f0f0;
 }
 flex-container {
@@ -13,12 +13,12 @@ flex-container {
 
 h1,
 h2 {
-  font-family: 'Slaytanic Font';
+  font-family: 'Slaytanic Regular';
   color:#9fa9a3;
 }
 @font-face {
-  font-family: 'Slaytanic Font';
-  src: url('https://www.1001fonts.com/slaytanic-font.html?text=The+Poubelle+Project') format('woff2');
+  font-family: 'Slaytanic Regular';
+  src: url('https://txt-dynamic.static.1001fonts.net/txt/dHRmLjcyLjAwMDAwMC5WR2hsSUZCdmRXSmxiR3hsSUZCeWIycGxZM1EsLjI,/slaytanic.regular.png') format('woff2');
 }
 p {
   color:#9fa9a3;
