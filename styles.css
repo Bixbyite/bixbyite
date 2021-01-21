@@ -8,6 +8,7 @@ flex-container {
   align-items: baseline;
   justify-content: space-around;
   align-content: flex-start;
+  flex-wrap: wrap
 }
 
 h1,
