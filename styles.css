@@ -8,13 +8,7 @@ flex-container {
   align-items: baseline;
   justify-content: space-around;
 }
-flex-parent {
-  display: flex; 
-  flex-wrap: wrap;
-  gap: 1 rem;
-  
-flex-children {
-  width: 
+
 h1,
 h2 {
   font-family: 'Big Shoulders Stencil Text', cursive;
