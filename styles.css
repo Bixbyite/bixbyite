@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier Prime', monospace;
+  font-family:;
   background-color:#f0f0f0;
 }
 flex-container {
@@ -11,8 +11,12 @@ flex-container {
 
 h1,
 h2 {
-  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-family: Slaytanic Font;
   color:#9fa9a3;
+}
+@font-face {
+  font-family: Slaytanic Font;
+  src: https://www.1001fonts.com/slaytanic-font.html?text=The+Poubelle+Project(slaytanic_font.woff);
 }
 p {
   color:#9fa9a3;
