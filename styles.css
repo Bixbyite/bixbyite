@@ -2,13 +2,9 @@ body {
   font-family:'Slaytanic Regular';
   background-color:#f0f0f0;
 }
-flex-container {
+
+.section {
   display: flex;
-  height: 200px;
-  align-items: baseline;
-  justify-content: space-around;
-  align-content: flex-start;
-  flex-wrap: wrap
 }
 
 h1,
