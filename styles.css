@@ -5,6 +5,7 @@ body {
 
 section {
   display: flex;
+  flex-direction: row;
 }
 
 h1,
